@@ -53,7 +53,7 @@
   "main": "app.js",
   "scripts": {
     "stat": "node app.js",
-    "start:dev": "nodemon app.js"
+    "start": "nodemon app.js"
   },
   "author": "mustapa zidan pahrudin",
   "license": "ISC",
